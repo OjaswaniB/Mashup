@@ -37,3 +37,7 @@ This is a web service for performing a Mashup operation, which involves download
 ## Usage
 
 To use the web service, send a POST request to the `/mashup` endpoint with the required parameters:
+- Singer Name
+- no. of videos
+- duration of each videp
+- email id
